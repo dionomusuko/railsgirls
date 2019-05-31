@@ -16,6 +16,8 @@ end
 
 gem 'carrierwave'
 # Use Puma as the app server
+gem 'mini_magick', '4.8.0'
+# Use rimgagemagick
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
